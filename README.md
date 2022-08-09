@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# <p align="center"> Hello! 👋  </p>
+[Click here](https://nish-code.github.io)
 <!--
 **nish-code/nish-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
