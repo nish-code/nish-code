@@ -1,6 +1,6 @@
 # <p align="center"> Hello! 👋  </p>
 [Click here](https://nish-code.github.io)
-# Deploying a React App* to GitHub Pages
+# Deploying a React App(cra)* to GitHub Pages
 
 \* created using `create-react-app`
 
